@@ -8,5 +8,4 @@ To get the start of the last third and the end of the night you just need to inp
 -----------------------------------------------------------------------------------------------
 
 ![GitHub Logo](/tahajjud.png)
-Format: ![Alt Text](url)
 

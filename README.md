@@ -8,13 +8,18 @@ To get the start of the last third and the end of the night you just need to inp
 -----------------------------------------------------------------------------------------------
 
 ![GitHub Logo](/tahajjud-0.png)
-Format: Tahajjud input Maghrib hour
+------------------    Tahajjud input Maghrib hour
+
 ![GitHub Logo](/tahajjud-1.png)
-Format: Tahajjud input Maghrib minutes
+------------------    Tahajjud input Maghrib minutes
+
 ![GitHub Logo](/tahajjud-2.png)
-Format: Tahajjud input Fajr hour
+------------------    Tahajjud input Fajr hour
+
 ![GitHub Logo](/tahajjud-3.png)
-Format: Tahajjud input Fajr minutes
+------------------    Tahajjud input Fajr minutes
+
 ![GitHub Logo](/tahajjud-4.png)
-Format: Tahajjud time out
+------------------    Tahajjud time out
+
 

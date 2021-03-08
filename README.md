@@ -8,4 +8,4 @@ To get the start of the last third and the end of the night you just need to inp
 -----------------------------------------------------------------------------------------------
 
 
-https://github.com/benkhaireh/tahajjud-calculator/blob/main/tahajjud.png
+

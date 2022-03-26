@@ -7,13 +7,13 @@
 > To begin, all you have to do is enter the Maghrib prayer period and the Fajr prayer period.
 -----------------------------------------------------------------------------------------------
 ![GitHub Logo](/tahajjud-0.png)
-> input Maghrib prayer hour
+> Input Maghrib prayer hour
 ----------------------------------------------------------------------------------------------
 ![GitHub Logo](/tahajjud-1.png)
-> input Maghrib prayer minutes
+> Input Maghrib prayer minutes
 ----------------------------------------------------------------------------------------------
 ![GitHub Logo](/tahajjud-2.png)
-> input Fajr prayer hour
+> Input Fajr prayer hour
 ----------------------------------------------------------------------------------------------
 ![GitHub Logo](/tahajjud-3.png)
 > input Fajr prayer minutes
